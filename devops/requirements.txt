@@ -1,0 +1,17 @@
+opencv-python==3.4.8.29
+opencv-contrib-python==3.4.8.29
+Pillow==8.3.2
+scipy==1.4.1
+matplotlib==3.2.1
+tqdm==4.46.1
+cffi==1.14.0
+tensorboard==2.3.0
+pandas==1.0.4
+plotly==4.8.1
+scikit-image==0.17.2
+ftpretty==0.3.2
+scikit-learn==0.23.1
+mlflow==1.8.0
+tf2onnx==1.8.5
+onnxruntime==1.8.0
+gradio==1.7.0
